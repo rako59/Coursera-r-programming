@@ -6,12 +6,13 @@
 ## #############################################################################
 ## Creates a matrix object with cachable inverse
 ##
-##  x is a formal parameter (source matrix)
+##  x                            formal parameter (source matrix)
 ##
-##  inv is the variable in which the inverse will be saved
+##  inv                          variable in which the inverse will be saved
 ##
-##  set and get                  are methods that allow the stored matrix                         to be saved or retrieved
-##  set.Inverse and get.Inverse  are methods that allow the stored inverse 
+##  set and get                  methods that allow the stored matrix
+##                               to be saved or retrieved
+##  set.Inverse and get.Inverse  methods that allow the stored inverse 
 ##                               of the matrix  to be saved or retrieved
 ## =============================================================================
 
